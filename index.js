@@ -17,7 +17,7 @@ function myFunction() {
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+// This is an example of closure. A function is able to access variables from outside the function, but access does not go both ways.
 
 
 
